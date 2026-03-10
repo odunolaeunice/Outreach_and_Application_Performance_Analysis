@@ -1,4 +1,4 @@
-# DePaul University Admissions Analysis (Excel & Power BI) 
+#Outreach & Application Performance Analysis (Excel & Power BI) 
 
 ### Project Overview
 This project analyses a comprehensive dataset of 7,543 student applications to DePaul University spanning 95 countries. The goal was to clean a highly disorganised raw dataset, establish proper data governance, and build an interactive Power BI dashboard to help the admissions team track enrollment trends, geographic demographics, and application statuses
